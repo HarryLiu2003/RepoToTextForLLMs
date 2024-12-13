@@ -1,1 +1,2 @@
-.env
+# Configuration files with sensitive data
+config.py
